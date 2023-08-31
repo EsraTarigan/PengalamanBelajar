@@ -1,1 +1,3 @@
-ini merupakan branch dev untuk keperluan pada branch maain.
+ini merupakan branch dev untuk keperluan pada branch main.
+
+perubahan kedua untuk melakukan sebuah git revert.
